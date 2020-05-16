@@ -1,0 +1,39 @@
+{
+    "data":[
+                    {
+                        "name": "Barbique Nation",
+                        "availableIn": "Mumbai, Pune, Gurgaon",
+                        "offerDesc": "50% off upto Rs.75 on min. orderof Rs.200."
+                    },
+                    {
+                        "name": "Faasos",
+                        "availableIn": "Mumbai, Pune, Delhi, Gurgaon",
+                        "offerDesc": "50% off upto Rs.75 on min. orderof Rs.299."
+                    },
+                    {
+                        "name": "Firangi Bake",
+                        "availableIn": "Mumbai, Pune, Delhi",
+                        "offerDesc": "50% off upto Rs.75 on min. orderof Rs.99."
+                    },
+                    {
+                        "name": "Good Bowl",
+                        "availableIn": "Mumbai, Pune, Kolkata",
+                        "offerDesc": "50% off upto Rs.75 on min. orderof Rs.149."
+                    },
+                    {
+                        "name": "Sweet Truth",
+                        "availableIn": "Mumbai, Pune, Chennai",
+                        "offerDesc": "50% off upto Rs.75 on min. orderof Rs.249."
+                    },
+                    {
+                        "name": "Bakingo",
+                        "availableIn": "Mumbai, Pune",
+                        "offerDesc": "50% off upto Rs.75 on min. orderof Rs.199."
+                    },
+                    {
+                        "name": "Happy Singh",
+                        "availableIn": "Mumbai, Pune, Delhi, Amritsar",
+                        "offerDesc": "50% off upto Rs.75 on min. orderof Rs.179."
+                    }
+                ]
+}
